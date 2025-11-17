@@ -1,5 +1,3 @@
 # trainer-search-app
 
-Shamanth
-
-test commit 3
+Shamanth U M 
